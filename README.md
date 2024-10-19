@@ -7,8 +7,8 @@
 * Before a teacher can login into the system, a class has to be created, and a password has to be assigned.
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Grade Genius
-VERSION or DATE: 1/9/2024
-HOW TO START THIS PROJECT: This program is developed by JDK.  
-AUTHORS: Will
-USER INSTRUCTIONS: To set up the project, find the Java files inside the folder. Please make sure to include all of the Java files when adding them to your IDE. Then, please compile it and follow the instruction in the console. 
+* PROJECT TITLE: Grade Genius
+* VERSION or DATE: 1/9/2024
+* HOW TO START THIS PROJECT: This program is developed by JDK.
+* AUTHORS: Will
+* USER INSTRUCTIONS: To set up the project, find the Java files inside the folder. Please make sure to include all of the Java files when adding them to your IDE. Then, please compile it and follow the instruction in the console. 
